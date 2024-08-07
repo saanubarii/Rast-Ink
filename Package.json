@@ -1,0 +1,17 @@
+{
+  "name": "roasting-artist",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^1.0.0",
+    "groq-sdk": "^1.0.0",
+    "axios": "^0.21.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
